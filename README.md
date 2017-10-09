@@ -5,6 +5,9 @@
 
  more info will be added
 
+## VueJs For Test
+The Present boilerplate is VueJs but you can use any framework you so feel comfortable with.
+
 ## Build Setup
 
 ``` bash
